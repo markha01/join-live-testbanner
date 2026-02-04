@@ -9,7 +9,7 @@ A comprehensive web application for live broadcasting that enables participants 
 ---
 <div align="center">
   
-## Quick Demo: Open Source Cloud
+## Try the Service on Open Source Cloud
 
 Run this service in the cloud with a single click.
 
